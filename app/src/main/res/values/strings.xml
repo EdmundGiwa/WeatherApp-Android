@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weatherooze</string>
+    <string name="hey_there">Hey There :)</string>
+    <string name="title_name">WeatherRooze</string>
+    <string name="slogan">Daily Weather Info</string>
+    <string name="greeting">Good Morning</string>
+    <string name="afternoon">Good Afternoon</string>
+    <string name="evening">Good Evening</string>
+</resources>
